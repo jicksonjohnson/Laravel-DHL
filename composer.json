@@ -1,11 +1,11 @@
 {
-    "name": "jickson/laravel-dhl-api",
-    "description": "DHL API wrapper for LARAVEL",
+    "name": "jickson/laravel-dhl-xml-service",
+    "description": "DHL XML service wrapper for LARAVEL",
     "license": "MIT",
     "authors": [
         {
-            "name": "Duwayne Brown",
-            "email": "duwayne@hashtec.co.za"
+            "name": "Jickson Johnson",
+            "email": "jicksonkoottala@gmail.com"
         }
     ],
     "autoload": {
