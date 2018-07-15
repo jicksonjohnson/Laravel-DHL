@@ -3,8 +3,8 @@
     namespace App\Providers;
 
     use Illuminate\Support\ServiceProvider;
-    use MisterBrownRSA\DHL\API\GetCapability;
-    use MisterBrownRSA\DHL\API\GetQuote;
+    use Jickson\DHL\API\GetCapability;
+    use Jickson\DHL\API\GetQuote;
 
     class DHLAPIProvider extends ServiceProvider
     {

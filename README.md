@@ -1,12 +1,12 @@
-# Laravel DHL API
+# Laravel DHL Wrap
 
-I needed a laravel-esque wrapper to make calls to the DHL XML service, but couldn't find any. So I created one. It was specifically designed for my own personal use, but you are welcome to submit issues, and I'll look into refactoring it so that it can be used in a more general purpose fashion.
+Laravel DHL module works with XML service 
 
 ## Getting Started
 
 ### Prerequisites
 
-This was built and tested ONLY on Laravel 5.5, although I'm sure it'll work on previous versions as well.
+This is build for Laravel 5.6.
 
 ### Installing
 
@@ -87,7 +87,7 @@ dump($GetQuote->resultsRAW());
 
 ## Authors
 
-* **Duwayne Brown** - *Initial work* - [Jickson](https://github.com/Jickson)
+* **Jickson Johnson** - [https://github.com/Jickson]
 
 ## License
 
@@ -95,4 +95,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks David for your help during the implementation process
+* Thanks Duwayne Brown for providing tips and base for this application.

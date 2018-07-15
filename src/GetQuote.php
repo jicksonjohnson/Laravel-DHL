@@ -1,6 +1,6 @@
 <?php
 
-    namespace MisterBrownRSA\DHL\API;
+    namespace Jickson\DHL\API;
 
     class GetQuote extends APIAbstract
     {

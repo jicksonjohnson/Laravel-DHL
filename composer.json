@@ -1,5 +1,5 @@
 {
-    "name": "misterbrownrsa/laravel-dhl-api",
+    "name": "jickson/laravel-dhl-api",
     "description": "DHL API wrapper for LARAVEL",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MisterBrownRSA\\DHL\\API\\": "src/"
+            "Jickson\\DHL\\API\\": "src/"
         }
     },
     "require": {
