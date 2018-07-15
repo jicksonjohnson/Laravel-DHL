@@ -1,0 +1,19 @@
+{
+    "name": "misterbrownrsa/laravel-dhl-api",
+    "description": "DHL API wrapper for LARAVEL",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duwayne Brown",
+            "email": "duwayne@hashtec.co.za"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MisterBrownRSA\\DHL\\API\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
