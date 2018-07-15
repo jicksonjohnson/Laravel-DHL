@@ -1,6 +1,7 @@
 {
     "name": "jickson/laravel-dhl-xml-service",
     "description": "DHL XML service wrapper for LARAVEL",
+    "version": "0.0.1",
     "license": "MIT",
     "authors": [
         {
