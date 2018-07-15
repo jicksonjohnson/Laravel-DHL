@@ -27,8 +27,6 @@
 
         public function doCurlPost()
         {
-            dd($this->document());
-
             if ($this->_mode == "production") {
                 $ch = curl_init($this->_productionUrl);
             } else {
